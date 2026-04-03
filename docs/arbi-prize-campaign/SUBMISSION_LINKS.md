@@ -29,8 +29,8 @@ Copy this block when submitting your Arbi prize campaign entry.
 - Discord handle: `PASTE_DISCORD_HANDLE`
 
 ## Domain details
-- Primary domain: `arbishield.app`
-- Redirect domain: `arbishield.xyz`
+- Primary domain: `arbishield.xyz`
+- Redirect domain: `www.arbishield.xyz`
 - Registrar: `PASTE_REGISTRAR`
 
 ## Notes for judges

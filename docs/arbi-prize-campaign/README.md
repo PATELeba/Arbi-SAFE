@@ -23,9 +23,10 @@ Ready folder for sharing campaign and registration links from GitHub.
 - Cloudflare Registrar: [https://dash.cloudflare.com/](https://dash.cloudflare.com/)
 
 ## Recommended domain set
-- Primary: `arbishield.app`
-- Redirect: `arbishield.xyz`
-- Optional: `mvp.arbishield.app`
+- Primary: `arbishield.xyz`
+- Redirect: `www.arbishield.xyz`
+- Optional preview: `preview.arbishield.xyz`
 
 ## Next step
 - Open [SUBMISSION_LINKS.md](./SUBMISSION_LINKS.md) and fill each placeholder with your final live links.
+- Follow [DOMAIN_LAUNCH_CHECKLIST.md](./DOMAIN_LAUNCH_CHECKLIST.md) to move production safely.
